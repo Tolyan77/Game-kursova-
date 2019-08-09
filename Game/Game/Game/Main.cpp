@@ -7,9 +7,12 @@ using namespace std;
 
 int main()
 {
-	Hero d;
+
+	Tree d;
 
 	d.Print(10,10);
+	
+	
 
 	cout << endl;
 	cout << endl;
